@@ -1,9 +1,7 @@
 from timeit import Timer
 
-
 if __name__ == "__main__":
     setup = "x = list(range(200000))"
-
 
     for n in range(1000000, 10000000, 1000000):
         setup = "x = list(range(%s))" % n
