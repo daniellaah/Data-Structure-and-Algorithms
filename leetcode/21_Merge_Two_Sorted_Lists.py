@@ -7,6 +7,7 @@ The new list should be made by splicing together the nodes of the first two list
 #         self.val = x
 #         self.next = None
 
+# 非递归
 class Solution(object):
     def mergeTwoLists(self, l1, l2):
         """
@@ -31,4 +32,21 @@ class Solution(object):
             else:
                 cur = cur.next
         cur.next = flag
+        return head
+# 递归
+class Solution(object):
+    def mergeTwoLists(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+        if not l1 or not l2:
+            return l1 if l1 else l2
+        if l1.val <= l2.val:
+            head = l1
+            head.next = self.mergeTwoLists(l1.next, l2)
+        else:
+            head = l2
+            head.next = self.mergeTwoLists(l1, l2.next)
         return head
