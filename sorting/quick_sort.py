@@ -1,23 +1,26 @@
-from random_nums import random_nums
-
+from random import randint
 def partition(nums, left, right):
-    pivotIndex = left
-    storeIndex = pivotIndex + 1
-    for i in range(storeIndex, right):
-        if nums[i] < nums[pivotIndex]:
-            nums[i], nums[storeIndex] = nums[storeIndex], nums[i]
-            storeIndex += 1
-    nums[pivotIndex], nums[storeIndex-1] = nums[storeIndex-1], nums[pivotIndex]
-    return storeIndex - 1
+    # 随机选取一个index
+    rand = randint(left, right-1)
+    # 将随机选取的index的值和left所在的值互换
+    nums[left], nums[rand] = nums[rand], nums[left]
+    pivot_idx = left
+    store_idx = left + 1
+    for i in range(store_idx, right):
+        if nums[i] < nums[pivot_idx]:
+            nums[i], nums[store_idx] = nums[store_idx], nums[i]
+            store_idx += 1
+    nums[pivot_idx], nums[store_idx-1] = nums[store_idx-1], nums[pivot_idx]
+    return store_idx - 1
 
 def quick_sort(nums, left, right):
     if right - left > 1:
-        pivotIndex = partition(nums, left, right)
-        quick_sort(nums, left, pivotIndex)
-        quick_sort(nums, pivotIndex+1, right)
+        pivot_idx = partition(nums, left, right)
+        quick_sort(nums, left, pivot_idx)
+        quick_sort(nums, pivot_idx+1, right)
 
 if __name__ == "__main__":
-    nums = random_nums()
+    nums = [randint(1,100) for _ in range(10)]
     print(nums)
     quick_sort(nums, 0, len(nums))
     print(nums)
