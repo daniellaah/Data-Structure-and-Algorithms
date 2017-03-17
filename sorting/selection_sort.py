@@ -1,6 +1,7 @@
 from random_nums import random_nums
 
 # time complexity: O(n^2)
+# 循环遍历数组, 每次找到最大的放数放到最后
 def selection_sort(nums):
     nums_length = len(nums)
     for i in range(nums_length):
