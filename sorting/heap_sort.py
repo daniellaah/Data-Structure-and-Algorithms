@@ -16,17 +16,16 @@ class MinHeap():
         for i in range(n // 2 - 1, -1, -1):
             self.arrangeDown(i, n)
 
-    def append(self, val):
+    def add(self, val):
         self.array.append(val)
         self.arrangeUp(len(self.array) - 1)
 
-
     def arrangeUp(self, i):
+        if i <= 0:
+            return
         tmp = self.array[i]
         j = (i-1) // 2
-        while j >= 0 and i != 0:
-            if tmp >= self.array[j]:
-                break
+        while j >= 0 and tmp < self.array[j]:
             self.array[i] = self.array[j]
             i = j
             j = (i-1) // 2
@@ -55,8 +54,8 @@ class MinHeap():
     def sort(self):
         n = len(self.array)
         for i in range(n-1):
-            self.array[n-i-1], self.array[0] = self.array[0], self.array[n-i-1]
-            self.make_min_heap(n-i-1)
+            self.array[n-1-i], self.array[0] = self.array[0], self.array[n-i-1]
+            self.make_min_heap(n-1-i)
 
 
 
@@ -64,10 +63,10 @@ if __name__ == "__main__":
     nums = random_nums()
     print("初始数组:\t%s" % nums)
 
-    heap = MinHeap(random_nums())
+    heap = MinHeap(nums)
     print("创建最小堆后:\t%s" % heap)
 
-    heap.append(10)
+    heap.add(10)
     print("插入元素'10'后:\t%s" % heap)
 
     heap.pop()
