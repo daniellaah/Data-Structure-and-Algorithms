@@ -1,4 +1,4 @@
-from random_nums import random_nums
+from random import randint
 
 def shell_sort(nums):
     nums_len = len(nums)
@@ -15,7 +15,7 @@ def shell_sort(nums):
     return nums
 
 if __name__ == "__main__":
-    nums = random_nums()
+    nums = [randint(1,100) for _ in range(10)]
     print(nums)
     shell_sort(nums)
     print(nums)
