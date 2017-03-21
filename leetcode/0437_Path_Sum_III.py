@@ -46,6 +46,5 @@ class Solution(object):
     def dfs(self, node, target):
         if not node:
             return 0
-
         return self.dfs(node.left, target - node.val) + \
                         self.dfs(node.right, target - node.val) + (node.val == target)
