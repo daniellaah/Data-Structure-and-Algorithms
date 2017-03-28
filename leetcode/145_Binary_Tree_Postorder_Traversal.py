@@ -25,13 +25,11 @@ class Solution(object):
         """
         if not root:
             return []
-        ret, stack = [], []
-        stack.append(root)
+        ret, stack = [], [root]
         while stack:
             node = stack.pop()
-            if node.left:
+            if node:
+                ret.append(node.val)
                 stack.append(node.left)
-            if node.right:
                 stack.append(node.right)
-            ret.append(node.val)
         return ret[::-1]
