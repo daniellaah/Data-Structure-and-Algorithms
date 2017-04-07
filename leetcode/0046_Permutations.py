@@ -12,6 +12,27 @@ For example,
   [3,2,1]
 ]
 """
+# 解法一
+class Solution(object):
+    def permute(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        self.ans = []
+        if not nums:
+            return []
+        self.recursive(nums, [])
+        return self.ans
+
+    def recursive(self, nums, res):
+        if not nums:
+            self.ans.append(res)
+        else:
+            for i in range(len(nums)):
+                self.recursive(nums[:i] + nums[i+1:], res + [nums[i]])
+            
+# 解法二
 class Solution(object):
     def permute(self, nums):
         """
