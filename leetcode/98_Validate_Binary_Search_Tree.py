@@ -24,7 +24,7 @@ Binary tree [1,2,3], return false.
 #         self.left = None
 #         self.right = None
 from sys import maxsize
-# 解法一, 中序遍历
+# 解法一, 中序遍历, 非递归
 class Solution(object):
     def isValidBST(self, root):
         """
@@ -44,7 +44,27 @@ class Solution(object):
                 last_node = node.val
                 root = node.right
         return True
-# 解法二, 递归检查
+# 解法二, 中序遍历, 递归
+from sys import maxsize
+MIN_VALUE = -maxsize - 1
+class Solution(object):
+    pre_val = MIN_VALUE
+    def isValidBST(self, root):
+        """
+        :type root: TreeNode
+        :rtype: bool
+        """
+        if not root:
+            return True
+        if not self.isValidBST(root.left):
+            return False
+        if root.val <= self.pre_val:
+            return False
+        self.pre_val = root.val
+        if not self.isValidBST(root.right):
+            return False
+        return True
+# 解法三, 递归检查
 from sys import maxsize
 MAX_VALUE = maxsize
 MIN_VALUE = -maxsize - 1
