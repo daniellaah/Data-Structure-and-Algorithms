@@ -103,3 +103,18 @@ class Solution(object):
         """
         if root:
             self.recursive(root)
+# 解法四: 终极解法
+class Solution(object):
+    last_node = None
+    def flatten(self, root):
+        """
+        :type root: TreeNode
+        :rtype: void Do not return anything, modify root in-place instead.
+        """
+        if root:
+            self.flatten(root.right)
+            self.flatten(root.left)
+            root.right = self.last_node
+            root.left = None
+            self.last_node = root
+            
