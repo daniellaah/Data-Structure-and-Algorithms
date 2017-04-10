@@ -26,13 +26,14 @@ Bonus points if you could solve it both recursively and iteratively.
 
 # 递归
 class Solution(object):
-    def isSameVal(self, left, right):
+    def checkSymmetric(self, left, right):
         if not left and not right:
             return True
-        if left and right and left.val == right.val:
-            return self.isSameVal(left.left, right.right) and self.isSameVal(left.right, right.left)
-        else:
+        if not left or not right:
             return False
+        return left.val == right.val and \
+                self.checkSymmetric(left.left, right.right) and \
+                self.checkSymmetric(left.right, right.left)
 
     def isSymmetric(self, root):
         """
@@ -41,16 +42,8 @@ class Solution(object):
         """
         if not root:
             return True
-        return self.isSameVal(root.left, root.right)
-
+        return self.checkSymmetric(root.left, root.right)
 # 非递归
-# Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
-
 class Solution(object):
     def isSymmetric(self, root):
         """
