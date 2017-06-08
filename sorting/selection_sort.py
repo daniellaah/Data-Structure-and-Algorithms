@@ -1,20 +1,17 @@
-from random_nums import random_nums
-
+from random import randint
 # time complexity: O(n^2)
-# 循环遍历数组, 每次找到最大的放数放到最后
+# 循环遍历数组, 每次记录最大的数的索引, 与未排序的最后一个数交换
 def selection_sort(nums):
-    nums_length = len(nums)
-    for i in range(nums_length):
+    nums_len = len(nums)
+    for i in range(nums_len - 1):
         max_idx = 0
-        for j in range(nums_length - i):
+        for j in range(1, nums_len - i):
             if nums[max_idx] < nums[j]:
                 max_idx = j
-        nums[max_idx], nums[j] = nums[j], nums[max_idx]
-    return nums
-
+        nums[max_idx], nums[j] = nums[j] , nums[max_idx]
 
 if __name__ == "__main__":
-    nums = random_nums()
+    nums = [randint(0, 100) for _ in range(10)]
     print(nums)
     selection_sort(nums)
     print(nums)
