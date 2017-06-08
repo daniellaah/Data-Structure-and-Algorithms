@@ -25,7 +25,7 @@ def merge_sort(nums, start, end):
         merge_sort(nums, start, mid)
         merge_sort(nums, mid, end)
         merge(nums, start, mid, end)
-
+    
 if __name__ == "__main__":
     nums = [randint(1,100) for _ in range(10)]
     print(nums)
