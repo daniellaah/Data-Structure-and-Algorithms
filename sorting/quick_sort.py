@@ -16,7 +16,7 @@ def partition(nums, left, right):
 def quick_sort(nums, left, right):
     if right - left > 1:
         pivot_idx = partition(nums, left, right)
-        quick_sort(nums, left, pivot_idx)
+        quick_sort(nums, left, pivot_idx) # 不包含右端点
         quick_sort(nums, pivot_idx+1, right)
 
 if __name__ == "__main__":
