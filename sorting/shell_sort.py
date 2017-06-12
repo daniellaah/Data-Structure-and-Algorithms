@@ -29,7 +29,7 @@ def shell_sort(nums):
                     k -= gap
                 nums[k+gap] = current_num
         gap = gap // 2
-        
+
 # 2017.06.12
 def shell_sort(nums):
     nums_len = len(nums)
