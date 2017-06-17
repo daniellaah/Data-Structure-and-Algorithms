@@ -16,6 +16,15 @@ def print_linked_list_inverse(head):
         print_linked_list_inverse(head.next)
         print(head.val, end=', ')
 
+def print_linked_list_inverse2(head):
+    stack = []
+    p = head
+    while p:
+        stack.append(p.val)
+        p = p.next
+    while stack:
+        num = stack.pop()
+        print(num, end=', ')
 
 if __name__ == "__main__":
     nums = [randint(1, 10) for _ in range(10)]
@@ -26,3 +35,5 @@ if __name__ == "__main__":
         p = p.next
     print(nums)
     print_linked_list_inverse(head)
+    print('')
+    print_linked_list_inverse2(head)
