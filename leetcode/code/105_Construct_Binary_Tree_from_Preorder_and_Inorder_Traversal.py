@@ -13,10 +13,10 @@ class Solution(object):
         :type inorder: List[int]
         :rtype: TreeNode
         """
-        if not preorder or not inorder:
+        if not preorder or not inorder or len(preorder) != len(inorder):
             return None
         root = TreeNode(preorder[0])
-        root_idx = inorder.index(preorder[0])
-        root.left = self.buildTree(preorder[1:root_idx+1], inorder[0:root_idx])
+        root_idx = inorder.index(root.val)
+        root.left = self.buildTree(preorder[1:root_idx+1], inorder[:root_idx])
         root.right = self.buildTree(preorder[root_idx+1:], inorder[root_idx+1:])
         return root
