@@ -20,18 +20,19 @@ class TreeNode:
 class Solution:
     # @param {TreeNode} root the root of binary tree
     # @return {TreeNode} the root of the minimum subtree
-    minSum, node = 0, None
+    _minSum, _node = 0, None
     def helper(self, root):
         if not root:
             return 0
-        leftSum = self.helper(root.left)
-        rightSum = self.helper(root.right)
-        rootSum = leftSum + rightSum + root.val
-        if not self.node or rootSum < self.minSum:
-            self.node = root
-            self.minSum = rootSum
+        rootSum = self.helper(root.left) + \
+                    self.helper(root.right) + \
+                    root.val
+        if not self._node or rootSum < self._minSum:
+            self._node = root
+            self._minSum = rootSum
         return rootSum
+
     def findSubtree(self, root):
         # Write your code here
         self.helper(root)
-        return self.node
+        return self._node
