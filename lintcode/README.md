@@ -1,5 +1,5 @@
 |Problem No.|Solution|Difficulty|
-|:-:|:-:|:-:|
+|:-:|:-|:-:|
 |[028](http://www.lintcode.com/problem/search-a-2d-matrix)|[028_Search_a_2D_Matrix](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/028_Search_a_2D_Matrix.py)|Easy|
 |[062](http://www.lintcode.com/problem/search-in-rotated-sorted-array)|[062_Search_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)|Medium|
 |[074](http://www.lintcode.com/problem/first-bad-version)|[074_First_Bad_Version](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/074_First_Bad_Version.py)|Medium|
