@@ -4,7 +4,9 @@
 |[062](http://www.lintcode.com/problem/search-in-rotated-sorted-array)|[062_Search_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)|Medium|
 |[074](http://www.lintcode.com/problem/first-bad-version)|[074_First_Bad_Version](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/074_First_Bad_Version.py)|Medium|
 |[075](http://www.lintcode.com/problem/find-peak-element)|[075_Find_Peak_Element](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/075_Find_Peak_Element.py)|Medium|
+|[088](http://www.lintcode.com/en/problem/lowest-common-ancestor/)|[088_Lowest_Common_Ancestor](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/088_Lowest_Common_Ancestor.py)||
 |[093](http://www.lintcode.com/problem/balanced-binary-tree)|[093_Balanced_Binary_Tree](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/093_Balanced_Binary_Tree.py)|Easy|
+|[095](http://www.lintcode.com/en/problem/validate-binary-search-tree/#)|(https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/095_Validate_Binary_Search_Tree.py)|Medium|
 |[159](http://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array)|[159_Find_Minimum_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/159_Find_Minimum_in_Rotated_Sorted_Array.py)|Medium|
 |[447](http://www.lintcode.com/problem/search-in-a-big-sorted-array)|[447_Search_in_a_Big_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/447_Search_in_a_Big_Sorted_Array.py)|Medium|
 |[453](http://www.lintcode.com/problem/flatten-binary-tree-to-linked-list)|[453_Flatten_Binary_Tree_to_Linked_List](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/453_Flatten_Binary_Tree_to_Linked_List.py)|Easy|
@@ -16,7 +18,7 @@
 |[596]()|[596_Minimum_Subtree](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/596_Minimum_Subtree.py)|Easy|
 |[597]()|[597_Subtree_with_Maximum_Average](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/597_Subtree_with_Maximum_Average.py)|Easy|
 |[600]()|[600_Smallest_Rectangle_Enclosing_Black_Pixels.py](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/600_Smallest_Rectangle_Enclosing_Black_Pixels.py)|Hard|
-||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+
 ||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 ||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 ||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
