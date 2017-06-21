@@ -94,7 +94,7 @@
 |[092]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[093](http://www.lintcode.com/problem/balanced-binary-tree)|[093_Balanced_Binary_Tree](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/093_Balanced_Binary_Tree.py)|Easy|
 |[094]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[095](http://www.lintcode.com/en/problem/validate-binary-search-tree/#)|(https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/095_Validate_Binary_Search_Tree.py)|Medium|
+|[095](http://www.lintcode.com/en/problem/validate-binary-search-tree/#)|[095_Validate_Binary_Search_Tree](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/095_Validate_Binary_Search_Tree.py)|Medium|
 |[096]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[097]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[098]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
