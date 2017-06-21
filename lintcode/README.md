@@ -8,6 +8,7 @@
 |[093](http://www.lintcode.com/problem/balanced-binary-tree)|[093_Balanced_Binary_Tree](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/093_Balanced_Binary_Tree.py)|Easy|
 |[095](http://www.lintcode.com/en/problem/validate-binary-search-tree/#)|(https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/095_Validate_Binary_Search_Tree.py)|Medium|
 |[159](http://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array)|[159_Find_Minimum_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/159_Find_Minimum_in_Rotated_Sorted_Array.py)|Medium|
+|[376](http://www.lintcode.com/en/problem/binary-tree-path-sum/#)|[376_Binary_Tree_Path_Sum](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/376_Binary_Tree_Path_Sum.py)|Easy|
 |[447](http://www.lintcode.com/problem/search-in-a-big-sorted-array)|[447_Search_in_a_Big_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/447_Search_in_a_Big_Sorted_Array.py)|Medium|
 |[453](http://www.lintcode.com/problem/flatten-binary-tree-to-linked-list)|[453_Flatten_Binary_Tree_to_Linked_List](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/453_Flatten_Binary_Tree_to_Linked_List.py)|Easy|
 |[458](http://www.lintcode.com/problem/last-position-of-target)|[458_Last_Position_of_Target](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/458_Last_Position_of_Target.py)|Easy|
@@ -19,7 +20,7 @@
 |[597]()|[597_Subtree_with_Maximum_Average](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/597_Subtree_with_Maximum_Average.py)|Easy|
 |[600]()|[600_Smallest_Rectangle_Enclosing_Black_Pixels.py](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/600_Smallest_Rectangle_Enclosing_Black_Pixels.py)|Hard|
 
-||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+
 ||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 ||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 ||[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
