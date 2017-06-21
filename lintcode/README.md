@@ -61,7 +61,7 @@
 |[059]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[060]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[061]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[062](http://www.lintcode.com/problem/search-in-rotated-sorted-array)|[062_Search_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)|Medium|
+|[062](http://www.lintcode.com/problem/search-in-rotated-sorted-array)|[062_Search_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/	062_Search_in_Rotated_Sorted_Array)|Medium|
 |[063]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[064]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[065]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
