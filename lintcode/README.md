@@ -113,9 +113,9 @@
 |[111]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[112]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[113]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[114]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[114](http://www.lintcode.com/en/problem/unique-paths/#)|[114_Unique_Paths](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/114_Unique_Paths.py)|Easy|
 |[115]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[116]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[116](http://www.lintcode.com/en/problem/jump-game/#)|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/116_Jump_Game.py)|Medium|
 |[117]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[118]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[119]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
@@ -600,3 +600,4 @@
 |[598]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[599]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[600]()|[600_Smallest_Rectangle_Enclosing_Black_Pixels.py](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/600_Smallest_Rectangle_Enclosing_Black_Pixels.py)|Hard|
+|[669](http://www.lintcode.com/en/problem/coin-change/)|[669_Coin_Change](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/669_Coin_Change.py)|Medium|

@@ -23,6 +23,6 @@ class Solution:
         for i in range(1, amount+1):
             dp[i] = MAX_VALUE
             for coin in coins:
-                if i - coin >= 0:
-                    dp[i] = min(dp[i], dp[i - coin] + 1)
+                if i - coin >= 0 and dp[i - coin] + 1 < dp[i]:
+                    dp[i] = dp[i - coin] + 1
         return dp[amount] if dp[amount] != MAX_VALUE else -1
