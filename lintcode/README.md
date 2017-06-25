@@ -109,12 +109,13 @@
 |[107]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[108]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[109]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[110]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[110](http://www.lintcode.com/en/problem/minimum-path-sum/)|[110_Minimum_Path_Sum](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/110_Minimum_Path_Sum.py)||
 |[111]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[112]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[113]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[114](http://www.lintcode.com/en/problem/unique-paths/#)|[114_Unique_Paths](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/114_Unique_Paths.py)|Easy|
-|[115]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[115](http://www.lintcode.com/en/problem/unique-paths-ii/)|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/115_Unique_Paths_II.py
+)|Easy|
 |[116](http://www.lintcode.com/en/problem/jump-game/#)|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/116_Jump_Game.py)|Medium|
 |[117]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[118]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
@@ -396,7 +397,7 @@
 |[394]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[395]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[396]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[397]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[397](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence/)|[397_Longest_Increasing_Continuous_Subsequence](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/397_Longest_Increasing_Continuous_Subsequence.py)|Easy|
 |[398]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[399]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[400]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
@@ -514,7 +515,7 @@
 |[512]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[513]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[514]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[515]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[515](http://www.lintcode.com/en/problem/paint-house/)|[515_Paint_House](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/515_Paint_House.py)|Medium|
 |[516]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[517]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[518]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
