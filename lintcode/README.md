@@ -512,7 +512,7 @@
 |[509]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[510]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[511]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[512]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[512](http://www.lintcode.com/en/problem/decode-ways/)|[512_Decode_Ways](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/512_Decode_Ways.py)|Medium|
 |[513]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[514]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[515](http://www.lintcode.com/en/problem/paint-house/)|[515_Paint_House](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/515_Paint_House.py)|Medium|
