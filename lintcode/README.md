@@ -61,7 +61,7 @@
 |[059]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[060]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[061]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[062](http://www.lintcode.com/problem/search-in-rotated-sorted-array)|[062_Search_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/	062_Search_in_Rotated_Sorted_Array)|Medium|
+|[062](http://www.lintcode.com/problem/search-in-rotated-sorted-array)|[062_Search_in_Rotated_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/062_Search_in_Rotated_Sorted_Array.py)|Medium|
 |[063]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[064]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[065]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
@@ -114,9 +114,8 @@
 |[112]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[113]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[114](http://www.lintcode.com/en/problem/unique-paths/#)|[114_Unique_Paths](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/114_Unique_Paths.py)|Easy|
-|[115](http://www.lintcode.com/en/problem/unique-paths-ii/)|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/115_Unique_Paths_II.py
-)|Easy|
-|[116](http://www.lintcode.com/en/problem/jump-game/#)|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/116_Jump_Game.py)|Medium|
+|[115](http://www.lintcode.com/en/problem/unique-paths-ii/)|[115_Unique_Paths_II](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/115_Unique_Paths_II.py)|Easy|
+|[116](http://www.lintcode.com/en/problem/jump-game/#)|[116_Jump_Game](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/116_Jump_Game.py)|Medium|
 |[117]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[118]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[119]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
