@@ -449,7 +449,7 @@
 |[447](http://www.lintcode.com/problem/search-in-a-big-sorted-array)|[447_Search_in_a_Big_Sorted_Array](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/447_Search_in_a_Big_Sorted_Array.py)|Medium|
 |[448]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[449]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[450]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[450](http://www.lintcode.com/problem/reverse-nodes-in-k-group)|[450_Reverse_Nodes_in_k-Group](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/450_Reverse_Nodes_in_k-Group.py)|Hard|
 |[451]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[452]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[453](http://www.lintcode.com/problem/flatten-binary-tree-to-linked-list)|[453_Flatten_Binary_Tree_to_Linked_List](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/453_Flatten_Binary_Tree_to_Linked_List.py)|Easy|
