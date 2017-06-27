@@ -34,8 +34,8 @@
 |[032]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[033]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[034]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[035]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[036]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[035](http://www.lintcode.com/en/problem/reverse-linked-list/)|[035_Reverse_Linked_List](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/035_Reverse_Linked_List.py)|Easy|
+|[036](http://www.lintcode.com/en/problem/reverse-linked-list-ii/)|[36_Reverse_Linked_List_II](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/36_Reverse_Linked_List_II.py)|Medium|
 |[037]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[038]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[039]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
