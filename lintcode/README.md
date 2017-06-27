@@ -101,10 +101,10 @@
 |[099]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[100]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[101]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[102](http://www.lintcode.com/en/problem/copy-list-with-random-pointer/)|[165_Merge_Two_Sorted_Lists](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/165_Merge_Two_Sorted_Lists.py)|Easy|
+|[102](http://www.lintcode.com/en/problem/linked-list-cycle/)|[165_Merge_Two_Sorted_Lists](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/165_Merge_Two_Sorted_Lists.py)|Medium|
 |[103]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[104]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[105]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[105](http://www.lintcode.com/en/problem/copy-list-with-random-pointer/)|[105_Copy_List_with_Random_Pointer](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/105_Copy_List_with_Random_Pointer.py)|Medium|
 |[106]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[107]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[108]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
