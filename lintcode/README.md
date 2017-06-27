@@ -598,6 +598,6 @@
 |[596]()|[596_Minimum_Subtree](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/596_Minimum_Subtree.py)|Easy|
 |[597]()|[597_Subtree_with_Maximum_Average](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/597_Subtree_with_Maximum_Average.py)|Easy|
 |[598]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[599]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[599](http://www.lintcode.com/en/problem/insert-into-a-cyclic-sorted-list/)|[599_Insert_into_a_Cyclic_Sorted_List](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/599_Insert_into_a_Cyclic_Sorted_List.py)|Easy|
 |[600]()|[600_Smallest_Rectangle_Enclosing_Black_Pixels.py](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/600_Smallest_Rectangle_Enclosing_Black_Pixels.py)|Hard|
 |[669](http://www.lintcode.com/en/problem/coin-change/)|[669_Coin_Change](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/669_Coin_Change.py)|Medium|
