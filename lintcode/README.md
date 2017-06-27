@@ -101,7 +101,7 @@
 |[099]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[100]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[101]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[102]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[102](http://www.lintcode.com/en/problem/copy-list-with-random-pointer/)|[165_Merge_Two_Sorted_Lists](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/165_Merge_Two_Sorted_Lists.py)|Easy|
 |[103]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[104]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[105]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
@@ -164,7 +164,7 @@
 |[162]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[163]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[164]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[165]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[165](http://www.lintcode.com/en/problem/merge-two-sorted-lists/)|[165_Merge_Two_Sorted_Lists](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/165_Merge_Two_Sorted_Lists.py)|Easy|
 |[166]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[167]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[168]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
