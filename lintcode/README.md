@@ -69,7 +69,7 @@
 |[067]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[068]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[069]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[070]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[070](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/)|[70_Binary_Tree_Level_Order_Traversal](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/70_Binary_Tree_Level_Order_Traversal.py)|Medium|
 |[071]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[072]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[073]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
