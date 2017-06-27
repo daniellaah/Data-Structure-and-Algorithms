@@ -97,7 +97,7 @@
 |[095](http://www.lintcode.com/en/problem/validate-binary-search-tree/#)|[095_Validate_Binary_Search_Tree](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/095_Validate_Binary_Search_Tree.py)|Medium|
 |[096]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[097]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
-|[098]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
+|[098](http://www.lintcode.com/en/problem/sort-list/)|[098_Sort_List](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/098_Sort_List.py)|Medium|
 |[099]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[100]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
 |[101]()|[](https://github.com/daniellaah/Algorithms-in-Python/blob/master/lintcode/code/)||
