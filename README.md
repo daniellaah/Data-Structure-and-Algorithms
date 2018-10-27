@@ -1,1 +1,1 @@
-# Data Structure and Algorithoms Using Python
+# Data Structure and Algorithoms
