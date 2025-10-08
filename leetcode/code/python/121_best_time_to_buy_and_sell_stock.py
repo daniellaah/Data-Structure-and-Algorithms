@@ -57,11 +57,13 @@ class SolutionOnePass:
         if not prices:
             return 0
 
-        min_price = prices[0]
+        min_price = float("inf")
         max_profit = 0
 
-        for price in prices[1:]:
-            max_profit = max(max_profit, price - min_price)
-            min_price = min(min_price, price)
+        for price in prices:
+            if max_profit < price - min_price:
+                max_profit = price - min_price
+            if min_price > price:
+                min_price = price
 
         return max_profit
